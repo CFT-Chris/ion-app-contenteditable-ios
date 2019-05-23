@@ -1,0 +1,7 @@
+{
+  "name": "ion-app-contenteditable-ios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
